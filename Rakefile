@@ -10,7 +10,7 @@ begin
     gem.email = "jtprince@gmail.com"
     gem.homepage = "http://github.com/jtprince/id3-rename"
     gem.authors = ["John Prince"]
-    gem.add_development_dependency "bacon", ">= 0"
+    gem.add_development_dependency "spec-more", ">= 0"
     gem.add_development_dependency "yard", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
